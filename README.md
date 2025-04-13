@@ -9,7 +9,7 @@ Repositório para armazenar resumos sobre o curso Git e GitHub do curso DIO [Dig
 
 ## 💻 Resumos das aulas
 
-| Aulas     | Resumos     |
+| Aulas     | Resumo     |
 |-----------|-------------|
 | Gravando LAterações no Repositório Local | [Resumos]() |
 
